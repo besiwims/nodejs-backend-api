@@ -1,2 +1,2 @@
-# nodejs-backend-api
-This is an api design using nodejs and mysql
+# backend-api
+The backend api base code for the recycling dapp
